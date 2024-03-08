@@ -1,0 +1,103 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.serv-title {
+  width: 100%;
+  background: url(D:\FCIS\IS\GP\web-app\web-app\public\images\meow.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  color: #fff;
+  font-size: 100px;
+  text-align: center;
+  padding: 100px;
+  margin: auto;
+}
+h1 {
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+p {
+  color: #333;
+  font-size: 18px;
+  line-height: 1.6;
+}
+.medication-info {
+  margin-bottom: 30px;
+}
+.ocd-bg {
+  background-color: #9bc3ff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.adhd-bg {
+  background-color: #ff9bf5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.ptsd-bg {
+  background-color: #ff9b9b;
+  padding: 20px;
+  border-radius: 10px;
+}
+.depression-bg {
+  background-color: #ffdb9b;
+  padding: 20px;
+  border-radius: 10px
+}
+/* AnalysisResult.css */
+body {
+  background-color: #f0f0f0;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+.result {
+  background-color: #fff;
+  padding: 50px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.disorder-label {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.model-output {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+
+
+
